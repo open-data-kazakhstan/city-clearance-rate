@@ -16,12 +16,7 @@
                         "format": "default"
                     },
                     {
-                        "name": "Year",
-                        "type": "integer",
-                        "format": "default"
-                    },
-                    {
-                        "name": "Found criminals",
+                        "name": "Value",
                         "type": "integer",
                         "format": "default"
                     }

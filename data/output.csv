@@ -1,21 +1,21 @@
-Region,Year,Found criminals
-Shymkent city,2023,1033
-Turkestan region,2023,918
-Ulytau region,2023,204
-West-Kazakhstan region,2023,627
-Zhambyl region,2023,543
-Zhetisu region,2023,418
-Abay region,2023,320
-Akmola region,2023,606
-Aktobe region,2023,686
-Almaty city,2023,2799
-Almaty region,2023,953
-Astana city,2023,1534
-Atyrau region,2023,545
-East-Kazakhstan region,2023,545
-Karagandy region,2023,848
-Kostanay region,2023,736
-Kyzylorda region,2023,347
-Mangistau region,2023,474
-North-Kazakhstan region,2023,458
-Pavlodar region,2023,557
+Region,Value
+Shymkent city,2699
+Turkistan Region,3163
+Ulytau Region,133
+West Kazakhstan Region,2416
+Jambyl Region,2745
+Jetisu Region,489
+Abai Region,503
+Akmola Region,2611
+Aktobe Region,2408
+Almaty city,6336
+Almaty Region,3857
+Astana city,4289
+Atyrau Region,1551
+East Kazakhstan Region,3326
+Karaganda Region,2854
+Kostanay Region,2397
+Kyzylorda Region,1436
+Mangystau Region,1657
+North Kazakhstan Region,1902
+Pavlodar Region,2222
