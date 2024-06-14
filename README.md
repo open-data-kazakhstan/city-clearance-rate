@@ -40,7 +40,12 @@ We downoladed data from this source and placed it in the data folders
 We have processed the source data to make it normalized and derived  several aggregated datasets from it:
 
 * `data/output.csv` - final combined data
+* `data/clearance-rate-divided` - Data with defined clearance rate
 * `datapackage.json` - conatins all of the key information about our dataset
+
+## Description
+
+Main output data in file 'clearance-rate-divided' where column clearance-rate means amount of crime investigated and also column clearance-rate-divided is calculated by dividing the number of crimes that are "cleared" (a charge being laid) by the total number of crimes recorded
 
 ## Scripts
 
